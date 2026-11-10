@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 440" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#0d1117" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="1"/>
+    </radialGradient>
+
+    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#1e1b4b" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <linearGradient id="cubeRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .panel { fill: url(#bgGlow); stroke: url(#cyberGrad); stroke-width: 2; rx: 18; }
+    .hud-text { font-family: 'JetBrains Mono', 'Courier New', monospace; fill: #00f2fe; font-size: 11px; letter-spacing: 1.5px; }
+    .hud-title { font-family: 'JetBrains Mono', 'Courier New', monospace; fill: #ffffff; font-size: 13px; font-weight: bold; letter-spacing: 2px; }
+    .hud-sub { font-family: 'JetBrains Mono', 'Courier New', monospace; fill: #c084fc; font-size: 10px; letter-spacing: 1px; }
+    
+    .float-cube {
+      animation: float3d 4.5s ease-in-out infinite;
+      transform-origin: 210px 215px;
+    }
+    .inner-core {
+      animation: pulseCore 2.8s ease-in-out infinite;
+      transform-origin: 210px 205px;
+    }
+    .orbit-ring-1 {
+      animation: spinCW 14s linear infinite;
+      transform-origin: 210px 205px;
+    }
+    .orbit-ring-2 {
+      animation: spinCCW 10s linear infinite;
+      transform-origin: 210px 205px;
+    }
+    .scanline {
+      animation: scan 5s linear infinite;
+    }
+    .node-pulse {
+      animation: blink 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes float3d {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-14px); }
+    }
+    @keyframes pulseCore {
+      0%, 100% { transform: scale(0.92); opacity: 0.85; }
+      50% { transform: scale(1.08); opacity: 1; }
+    }
+    @keyframes spinCW {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    @keyframes spinCCW {
+      from { transform: rotate(360deg); }
+      to { transform: rotate(0deg); }
+    }
+    @keyframes scan {
+      0% { transform: translateY(40px); opacity: 0; }
+      15% { opacity: 0.55; }
+      85% { opacity: 0.55; }
+      100% { transform: translateY(380px); opacity: 0; }
+    }
+    @keyframes blink {
+      0% { opacity: 0.35; r: 3.5; }
+      100% { opacity: 1; r: 5.5; }
+    }
+  </style>
+
+  <!-- Outer Cyberpunk HUD Card -->
+  <rect x="6" y="6" width="408" height="428" class="panel" />
+
+  <!-- Subtle 3D Isometric Floor Grid -->
+  <g stroke="#1e293b" stroke-width="1" opacity="0.65">
+    <line x1="50" y1="330" x2="210" y2="260" />
+    <line x1="90" y1="350" x2="250" y2="280" />
+    <line x1="130" y1="370" x2="290" y2="300" />
+    <line x1="170" y1="390" x2="330" y2="320" />
+    <line x1="210" y1="410" x2="370" y2="340" />
+
+    <line x1="370" y1="330" x2="210" y2="260" />
+    <line x1="330" y1="350" x2="170" y2="280" />
+    <line x1="290" y1="370" x2="130" y2="300" />
+    <line x1="250" y1="390" x2="90" y2="320" />
+    <line x1="210" y1="410" x2="50" y2="340" />
+  </g>
+
+  <!-- HUD Header Bar -->
+  <line x1="24" y1="48" x2="396" y2="48" stroke="#334155" stroke-width="1" />
+  <circle cx="34" cy="30" r="5" fill="#ec4899" />
+  <circle cx="50" cy="30" r="5" fill="#a855f7" />
+  <circle cx="66" cy="30" r="5" fill="#00f2fe" />
+  <text x="86" y="34" class="hud-title">NEURAL_CORE // 3D_TENSOR</text>
+  <text x="335" y="34" class="hud-text">v4.2</text>
+
+  <!-- Rotating 3D Gyroscope Rings -->
+  <g class="orbit-ring-1">
+    <ellipse cx="210" cy="205" rx="135" ry="52" fill="none" stroke="#00f2fe" stroke-width="1.5" stroke-dasharray="10 6" opacity="0.65" transform="rotate(-28 210 205)" />
+    <circle cx="92" cy="142" r="4.5" fill="#00f2fe" filter="url(#neonGlow)" />
+    <circle cx="328" cy="268" r="4.5" fill="#ec4899" filter="url(#neonGlow)" />
+  </g>
+
+  <g class="orbit-ring-2">
+    <ellipse cx="210" cy="205" rx="125" ry="48" fill="none" stroke="#a855f7" stroke-width="1.5" stroke-dasharray="6 8" opacity="0.7" transform="rotate(32 210 205)" />
+    <circle cx="315" cy="140" r="4" fill="#a855f7" filter="url(#neonGlow)" />
+    <circle cx="105" cy="270" r="4" fill="#00f2fe" filter="url(#neonGlow)" />
+  </g>
+
+  <!-- Levitating 3D Isometric Hypercube (Tesseract) -->
+  <g class="float-cube">
+    <!-- Shadow on Floor -->
+    <ellipse cx="210" cy="340" rx="58" ry="18" fill="#00f2fe" opacity="0.15" filter="url(#neonGlow)" />
+
+    <!-- Outer 3D Isometric Cube Faces -->
+    <!-- Top Face -->
+    <polygon points="210,105 296,155 210,205 124,155" fill="url(#cubeTop)" stroke="#00f2fe" stroke-width="2" filter="url(#neonGlow)" />
+    <!-- Left Face -->
+    <polygon points="124,155 210,205 210,305 124,255" fill="url(#cubeLeft)" stroke="#a855f7" stroke-width="2" />
+    <!-- Right Face -->
+    <polygon points="210,205 296,155 296,255 210,305" fill="url(#cubeRight)" stroke="#00f2fe" stroke-width="2" />
+
+    <!-- Back Hidden Wireframe Edges -->
+    <line x1="210" y1="105" x2="210" y2="205" stroke="#e879f9" stroke-width="1" stroke-dasharray="4 4" opacity="0.6" />
+    <line x1="124" y1="255" x2="210" y2="205" stroke="#00f2fe" stroke-width="1" stroke-dasharray="4 4" opacity="0.6" />
+    <line x1="296" y1="255" x2="210" y2="205" stroke="#00f2fe" stroke-width="1" stroke-dasharray="4 4" opacity="0.6" />
+
+    <!-- Inner Pulsing 3D Neural Core Cube (Tesseract Inner Frame) -->
+    <g class="inner-core">
+      <polygon points="210,150 255,176 210,202 165,176" fill="#ec4899" fill-opacity="0.35" stroke="#f472b6" stroke-width="1.8" />
+      <polygon points="165,176 210,202 210,254 165,228" fill="#a855f7" fill-opacity="0.4" stroke="#c084fc" stroke-width="1.8" />
+      <polygon points="210,202 255,176 255,228 210,254" fill="#00f2fe" fill-opacity="0.35" stroke="#38bdf8" stroke-width="1.8" />
+
+      <!-- Tesseract Hyper-Connectors (Outer to Inner Vertices) -->
+      <line x1="210" y1="105" x2="210" y2="150" stroke="#00f2fe" stroke-width="1.3" opacity="0.85" />
+      <line x1="296" y1="155" x2="255" y2="176" stroke="#00f2fe" stroke-width="1.3" opacity="0.85" />
+      <line x1="124" y1="155" x2="165" y2="176" stroke="#a855f7" stroke-width="1.3" opacity="0.85" />
+      <line x1="210" y1="305" x2="210" y2="254" stroke="#ec4899" stroke-width="1.3" opacity="0.85" />
+      <line x1="124" y1="255" x2="165" y2="228" stroke="#a855f7" stroke-width="1.3" opacity="0.85" />
+      <line x1="296" y1="255" x2="255" y2="228" stroke="#00f2fe" stroke-width="1.3" opacity="0.85" />
+
+      <!-- Glowing Center Singularity -->
+      <circle cx="210" cy="202" r="8" fill="#ffffff" filter="url(#neonGlow)" />
+    </g>
+
+    <!-- Glowing Neural Synapses at Outer Cube Vertices -->
+    <circle cx="210" cy="105" r="4.5" fill="#00f2fe" class="node-pulse" filter="url(#neonGlow)" />
+    <circle cx="296" cy="155" r="4.5" fill="#a855f7" class="node-pulse" filter="url(#neonGlow)" />
+    <circle cx="124" cy="155" r="4.5" fill="#ec4899" class="node-pulse" filter="url(#neonGlow)" />
+    <circle cx="210" cy="205" r="5" fill="#ffffff" class="node-pulse" filter="url(#neonGlow)" />
+    <circle cx="124" cy="255" r="4.5" fill="#00f2fe" class="node-pulse" filter="url(#neonGlow)" />
+    <circle cx="296" cy="255" r="4.5" fill="#ec4899" class="node-pulse" filter="url(#neonGlow)" />
+    <circle cx="210" cy="305" r="4.5" fill="#a855f7" class="node-pulse" filter="url(#neonGlow)" />
+  </g>
+
+  <!-- Animated Laser Scanline -->
+  <line x1="20" y1="0" x2="400" y2="0" stroke="#00f2fe" stroke-width="1.5" class="scanline" filter="url(#neonGlow)" />
+
+  <!-- Bottom Cyberpunk Telemetry Readout -->
+  <rect x="24" y="366" width="372" height="48" rx="8" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+  <text x="38" y="386" class="hud-text">ARCH: TRANSFORMER // LLMs // MLOPS</text>
+  <text x="38" y="403" class="hud-sub">STATUS: TRAINING &amp; INFERENCE ONLINE [🟢]</text>
+</svg>

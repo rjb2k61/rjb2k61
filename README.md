@@ -1,181 +1,242 @@
-<!-- ==================== ANIMATED HEADER WAVE & TYPING SVG ==================== -->
+<!-- ==================== CYBERPUNK NEURAL LAB HEADER BANNER ==================== -->
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:06b6d4&height=220&section=header&text=Rijul%20Bhattacharjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20AIML%20@%20CMRIT%20Bangalore%20%7C%20GenAI%20%E2%80%A2%20MLOps%20%E2%80%A2%20AI%20Research&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Aspiring+AI%2FML+Engineer+%7C+2nd+Year+B.Tech+AIML+%40+CMRIT+Bangalore;Specializing+in+Generative+AI%2C+LLM+Engineering+%26+Scalable+MLOps;Passionate+about+Deep+Learning+Research+%26+Production+AI+Systems;Open+to+Internships%2C+Research+Roles+%26+AI+Engineering+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Status & Contact Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK%20%2F%20INTERNSHIPS-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/CMRIT%20Bangalore-B.Tech%20AIML%20(2nd%20Year)-6366f1?style=for-the-badge&logo=google-scholar&logoColor=white" alt="CMRIT Bangalore" />
-    <a href="https://github.com/rjb2k61">
-      <img src="https://img.shields.io/github/followers/rjb2k61?label=Follow%20%40rjb2k61&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
-    </a>
-    <a href="mailto:rijulbhattacharjee@gmail.com">
-      <img src="https://img.shields.io/badge/Email-rijulbhattacharjee%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <!-- Uncomment once LinkedIn is created:
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    -->
-  </p>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090d16,35:1e1b4b,75:7e22ce,100:00f2fe&height=230&section=header&text=RIJUL%20BHATTACHARJEE&fontSize=44&fontAlignY=40&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Systems%20%7C%20MLOps%20%26%20Research&descSize=18&descAlignY=64&fontColor=ffffff&animation=twinkling&stroke=00f2fe&strokeWidth=1" alt="Cyberpunk Neural Banner"/>
 </div>
 
----
+<!-- ==================== DYNAMIC NEON TYPING SVG ==================== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=840&lines=2nd+Year+B.Tech+in+AIML+%40+CMRIT+Bangalore+%F0%9F%8E%93;Generative+AI+%26+LLM+Engineering+(RAG+%E2%80%A2+Agents+%E2%80%A2+LoRA);Scalable+MLOps+%26+Production+Inference+Pipelines+%E2%9A%99%EF%B8%8F;Deep+Learning+Research+%26+Computer+Vision+Architectures+%F0%9F%94%AC;Aspiring+AI%2FML+Engineer+%E2%80%94+Open+to+Work+%26+Research+Roles+%F0%9F%9A%80" alt="Typing Animation" />
+  </a>
+</p>
 
-<!-- ==================== ABOUT ME (TERMINAL STYLE + BIO) ==================== -->
-## 🧠 `whoami` — About Me
+<!-- ==================== STATUS & CONNECT PILLS ==================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK%20%26%20RESEARCH-111827?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=10B981" height="30" alt="Open to Work" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CMRIT%20BANGALORE-B.TECH%20AIML%20(2ND%20YR)-111827?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=7C3AED" height="30" alt="CMRIT" />
+  &nbsp;
+  <a href="mailto:rijulbhattacharjee@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EC4899" height="30" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rjb2k61" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=00F2FE" height="30" alt="GitHub" />
+  </a>
+  <!-- Uncomment once LinkedIn is created:
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="30" alt="LinkedIn" />
+  </a>
+  -->
+</p>
 
-```yaml
-name: "Rijul Bhattacharjee"
-github: "@rjb2k61"
-email: "rijulbhattacharjee@gmail.com"
-education: "B.Tech in Artificial Intelligence & Machine Learning (2nd Year)"
-institution: "CMR Institute of Technology (CMRIT), Bengaluru, India 🇮🇳"
-status: "🟢 Aspiring AI/ML Engineer — Open to Work, Internships & Research Collaborations"
-core_focus:
-  - "Generative AI & LLM Engineering (RAG, Agentic Workflows, Fine-Tuning / PEFT)"
-  - "MLOps & End-to-End ML Systems (CI/CD/CT, Model Serving, Experiment Tracking)"
-  - "AI/ML Research (Deep Learning Architectures, Computer Vision & Efficient Inference)"
-philosophy: "Models in a notebook are experiments; models in production with observability are engineering."
+<br>
+
+<!-- ==================== SIDE-BY-SIDE ABOUT ME + 3D NEURAL TESSERACT ==================== -->
+## 🧬 Neural Profile & Architecture
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```python
+class AIMLEngineer:
+    def __init__(self):
+        self.name = "Rijul Bhattacharjee"
+        self.education = "B.Tech in AIML (2nd Year) @ CMRIT, Bengaluru 🇮🇳"
+        self.availability = "🟢 Open to Work: AI/ML, GenAI, MLOps & Research Roles"
+
+        self.specializations = [
+            "Generative AI & LLM Engineering (Hybrid RAG, LangGraph Agents)",
+            "Parameter-Efficient Fine-Tuning (PEFT / LoRA / QLoRA / vLLM)",
+            "End-to-End MLOps (Docker, FastAPI, MLflow, W&B, DVC, CI/CD)",
+            "Deep Learning Research & Explainable Computer Vision (Grad-CAM)"
+        ]
+
+        self.stack = {
+            "languages":  ["Python", "C++", "SQL", "Bash"],
+            "genai_llm":  ["PyTorch", "HuggingFace", "LangGraph", "LlamaIndex", "FAISS/Qdrant"],
+            "mlops_sys":  ["Docker", "FastAPI", "MLflow", "W&B", "DVC", "GitHub Actions"],
+            "vision_ml":  ["YOLOv8", "OpenCV", "Scikit-Learn", "NumPy", "Pandas"]
+        }
+
+    def mission(self) -> str:
+        return "Bridging foundational AI research and fault-tolerant production MLOps."
 ```
 
-Hi there! 👋 I'm **Rijul Bhattacharjee**, a 2nd-year **B.Tech AIML undergraduate at CMRIT Bangalore** driven by the intersection of **foundational AI research** and **production-grade machine learning engineering**.
+<br>
 
-- 🔬 **Research & Deep Learning:** Exploring transformer internals, parameter-efficient fine-tuning (**LoRA / QLoRA**), computer vision explainability (**Grad-CAM**), and reproducing modern architectures in PyTorch.
-- 🤖 **Generative AI & LLMs:** Building grounded **RAG pipelines**, multi-agent orchestration with **LangGraph**, structured LLM outputs, and low-latency inference systems.
-- ⚙️ **MLOps & Reliability:** Bridging the gap between Jupyter notebooks and scalable microservices using **Docker, FastAPI, MLflow, Weights & Biases, and DVC**.
-- 💼 **Open to Opportunities:** Actively seeking **AI/ML Engineering, GenAI/LLM, MLOps, and Research Roles/Internships** — reach out anytime at **[rijulbhattacharjee@gmail.com](mailto:rijulbhattacharjee@gmail.com)**.
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
----
+</td>
 
-<!-- ==================== ANIMATED TECH STACK ==================== -->
-## ⚡ Tech Stack & Engineering Arsenal
+<td width="42%" align="center" valign="middle">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,scikitlearn,opencv,docker,fastapi,git,githubactions,linux,bash,postgres,mongodb,aws,gcp&perline=8" alt="Skill Icons" />
-</div>
+<img src="./assets/neural-core-3d.svg" width="380" alt="3D Rotating Neural Tesseract Core"/>
 
-<br/>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center">🧬 GenAI & LLM Engineering</th>
-      <th align="center">🔥 Deep Learning & Research</th>
-      <th align="center">⚙️ MLOps & Deployment</th>
-      <th align="center">💻 Core & Data Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/LlamaIndex-6366F1?style=flat-square&logo=meta&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA%20%2F%20QLoRA-06B6D4?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/Qdrant%20%2F%20ChromaDB%20%2F%20FAISS-EC4899?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/vLLM%20%26%20Ollama-000000?style=flat-square" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/OpenCV%20%2F%20YOLOv8-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/NumPy%20%26%20Pandas-150458?style=flat-square&logo=numpy&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Jupyter%20%2F%20Colab-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/FastAPI%20%26%20Streamlit-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/DVC%20(Data%20Version%20Control)-945DD6?style=flat-square&logo=dvc&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/SQL%20%2F%20PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
+</td>
+</tr>
 </table>
 
----
+<br>
 
-<!-- ==================== FEATURED AI PROJECTS ==================== -->
-## 🚀 Featured Project
+<!-- ==================== OPINIONATED TECH STACK & ARSENAL ==================== -->
+## ⚡ Engineering & Research Arsenal
 
-<div align="center">
-  <a href="https://github.com/rjb2k61/Roadwatch---An-AI-powered-pothole-detection-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjb2k61&repo=Roadwatch---An-AI-powered-pothole-detection-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1" alt="RoadWatch Repository" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,scikitlearn,opencv,fastapi,docker,kubernetes,postgres,mongodb,redis,git,github,githubactions,linux,bash,aws,gcp,vscode&perline=10" alt="Tech Icons" />
+</p>
 
-- 🛣️ **[RoadWatch — AI-Powered Pothole Detection & Severity Reporting System](https://github.com/rjb2k61/Roadwatch---An-AI-powered-pothole-detection-system)**: Two-stage Computer Vision pipeline combining **MobileNetV2 + Grad-CAM explainability** and **YOLOv8 object localisation** with automated road-damage severity scoring, EXIF GPS mapping, and downloadable PDF/CSV civic inspection reports.
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain_%2F_LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA_%2F_PEFT-00F2FE?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/vLLM_%26_Ollama-111827?style=for-the-badge&logo=lightning&logoColor=00F2FE"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant_%2F_FAISS-EC4899?style=for-the-badge&logo=vectorworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8_%26_OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-<!-- ==================== ARCHITECTURAL WORKFLOW DIAGRAM ==================== -->
-## 🔄 How I Build & Ship AI Systems
+<br>
 
-```mermaid
-flowchart LR
-    A["📄 Research & Data<br/>(ArXiv / DVC / Datasets)"] --> B["🧪 Experimentation<br/>(PyTorch / HF / W&B)"]
-    B --> C["🧠 LLM & Vision Layer<br/>(LoRA / LangGraph / YOLOv8)"]
-    C --> D["⚙️ MLOps & Serving<br/>(MLflow / FastAPI / Docker)"]
-    D --> E["🚀 Production & Eval<br/>(CI/CD / Ragas / Monitoring)"]
-```
+<!-- ==================== BENTO 2x2 FLAGSHIP PROJECTS & FOCUS LABS ==================== -->
+## 🚀 Flagship Systems & Research Focus
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ==================== GITHUB STATS & ACTIVITY ==================== -->
-## 📊 GitHub Analytics & Engineering Pulse
+### 🛣️ [RoadWatch — Explainable Pothole Detection AI](https://github.com/rjb2k61/Roadwatch---An-AI-powered-pothole-detection-system)
+> **Two-Stage Deep Learning & Automated Civic Severity Engine**
+- **Stage 1 (Explainable Classification):** Transfer-learned **MobileNetV2** with **Grad-CAM** visual saliency heatmaps to verify road surface anomalies
+- **Stage 2 (Object Localisation):** Fine-tuned **YOLOv8** bounding-box detector computing relative surface damage ratios (`Low < 2%`, `Medium 2–8%`, `High > 8%`)
+- Extracts **EXIF GPS telemetry** onto interactive Folium maps and exports automated **PDF/CSV** civil inspection reports
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rjb2k61&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjb2k61&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" alt="Top Languages" />
-</div>
+`PyTorch` · `YOLOv8` · `Grad-CAM` · `OpenCV` · `Streamlit`
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rjb2k61&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=6366F1&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjb2k61&bg_color=0d1117&color=06b6d4&line=6366f1&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph" />
-</div>
+### 🤖 [GenAI & Agentic LLM Systems Lab](https://github.com/rjb2k61)
+> **Multi-Agent Graph Orchestration, Hybrid RAG & PEFT**
+- Designing stateful multi-agent reasoning loops with **LangGraph** and tool-calling verification
+- Hybrid retrieval pipelines combining dense vector embeddings (**Qdrant / FAISS**) with cross-encoder re-ranking and **Ragas** faithfulness evaluation
+- Parameter-Efficient Fine-Tuning (**LoRA / QLoRA**) of open-weights LLMs on consumer GPUs
 
----
+`HuggingFace` · `LangGraph` · `PEFT / LoRA` · `Vector DBs` · `Pydantic`
 
-<!-- ==================== ANIMATED CONTRIBUTION SNAKE ==================== -->
-## 🐍 Contribution Grid Snake
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Scalable MLOps & Inference Infrastructure](https://github.com/rjb2k61)
+> **Reproducible Training, Model Registries & Containerized Serving**
+- End-to-end data & model lineage using **DVC (Data Version Control)**, **MLflow**, and **Weights & Biases** experiment tracking
+- Low-latency asynchronous model serving via **FastAPI** and **Docker** microservices with automated CI/CD/CT workflows via **GitHub Actions**
+- Focus on drift detection, quantization, and reproducible ML pipelines
+
+`Docker` · `FastAPI` · `MLflow` · `W&B` · `DVC` · `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [Deep Learning & AI Research Explorations](https://github.com/rjb2k61)
+> **Architecture Implementations, Model Alignment & Explainability**
+- Implementing core deep learning papers from scratch in **PyTorch** (Attention mechanisms, Vision Transformers, and efficient inference)
+- Investigating model interpretability (**Grad-CAM / Attention Rollout**), quantization trade-offs, and domain adaptation on real-world datasets
+- Open to academic research collaborations & research internships
+
+`PyTorch` · `Transformers` · `Explainable AI (XAI)` · `ArXiv Reproductions`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ==================== 3D ISOMETRIC CONTRIBUTION CITY ==================== -->
+## 🏙️ 3D Isometric Contribution City
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rjb2k61/rjb2k61/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rjb2k61/rjb2k61/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rjb2k61/rjb2k61/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rjb2k61/rjb2k61/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rjb2k61/rjb2k61/main/profile-3d-contrib/profile-night-green.svg">
+    <img alt="3D Isometric Contribution City" src="https://raw.githubusercontent.com/rjb2k61/rjb2k61/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%">
   </picture>
-</div>
+</p>
 
----
+<br>
 
-<!-- ==================== FOOTER WAVE ==================== -->
-<div align="center">
-  <h3>🤝 Let's Collaborate on GenAI, MLOps, or AI Research!</h3>
-  <p>📫 Reach me directly at <a href="mailto:rijulbhattacharjee@gmail.com"><b>rijulbhattacharjee@gmail.com</b></a></p>
+<!-- ==================== 5-CARD GITHUB ANALYTICS DASHBOARD ==================== -->
+## 📊 GitHub Telemetry & Analytics
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e1b4b,100:0f172a&height=120&section=footer" width="100%" alt="Footer Banner" />
-</div>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjb2k61&theme=radical" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjb2k61&theme=radical" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rjb2k61&theme=radical&utcOffset=5.5" alt="Commits Timezone UTC +5:30" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjb2k61&theme=radical" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rjb2k61&theme=radical" alt="Top Languages by Commit" />
+</p>
+
+<br>
+
+<!-- ==================== GITHUB TROPHIES ==================== -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/rjb2k61">
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=rjb2k61&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br>
+
+<!-- ==================== PROFILE SUMMARY COUNTERS & FOOTER ==================== -->
+## 📋 Live Profile Counters
+
+<p align="center">
+  <img height="32" src="https://komarev.com/ghpvc/?username=rjb2k61&label=PROFILE+VIEWS&style=for-the-badge&labelColor=111827&color=A855F7" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=111827&color=EC4899&query=public_repos&url=https://api.github.com/users/rjb2k61" alt="Repositories"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/rjb2k61?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=111827&color=00F2FE" alt="Followers"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/rjb2k61?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=111827&color=10B981" alt="Stars"/>
+</p>
+
+<p align="center">
+  ⚡ <b>Connect with <a href="https://github.com/rjb2k61">Rijul Bhattacharjee</a></b> • <a href="mailto:rijulbhattacharjee@gmail.com"><code>rijulbhattacharjee@gmail.com</code></a> ⚡
+</p>
+
+<p align="center">
+  <i>"From ArXiv equations to containerized production inference — shipping intelligent systems one commit at a time."</i> 🚀
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&text=Let's%20Build%20the%20Future%20of%20AI%20Together!&fontSize=22&fontColor=ffffff&animation=fadeIn&color=0:00f2fe,35:7e22ce,70:1e1b4b,100:090d16"
+    alt="Footer Banner"
+  />
+</p>
