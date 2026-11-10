@@ -1,6 +1,6 @@
 <!-- ==================== CYBERPUNK NEURAL LAB HEADER BANNER ==================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1b4b,75:7e22ce,100:00f2fe&height=230&section=header&text=RIJUL%20BHATTACHARJEE&fontSize=44&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Systems%20%7C%20MLOps%20%26%20Research&descSize=18&descAlignY=62&fontColor=ffffff&animation=fadeIn" alt="Cyberpunk Neural Banner"/>
+  <img width="100%" src="./assets/header-banner.svg" alt="Cyberpunk Neural Banner"/>
 </div>
 
 <!-- ==================== DYNAMIC NEON TYPING SVG ==================== -->
@@ -227,9 +227,5 @@ class AIMLEngineer:
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&text=Let's%20Build%20the%20Future%20of%20AI%20Together!&fontSize=22&fontColor=ffffff&animation=fadeIn&color=0:00f2fe,35:7e22ce,70:1e1b4b,100:090d16"
-    alt="Footer Banner"
-  />
+  <img width="100%" src="./assets/footer-banner.svg" alt="Footer Banner" />
 </p>
