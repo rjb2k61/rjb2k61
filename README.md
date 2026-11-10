@@ -1,6 +1,6 @@
 <!-- ==================== CYBERPUNK NEURAL LAB HEADER BANNER ==================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090d16,35:1e1b4b,75:7e22ce,100:00f2fe&height=230&section=header&text=RIJUL%20BHATTACHARJEE&fontSize=44&fontAlignY=40&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Systems%20%7C%20MLOps%20%26%20Research&descSize=18&descAlignY=64&fontColor=ffffff&animation=twinkling&stroke=00f2fe&strokeWidth=1" alt="Cyberpunk Neural Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1b4b,75:7e22ce,100:00f2fe&height=230&section=header&text=RIJUL%20BHATTACHARJEE&fontSize=44&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Systems%20%7C%20MLOps%20%26%20Research&descSize=18&descAlignY=62&fontColor=ffffff&animation=fadeIn" alt="Cyberpunk Neural Banner"/>
 </div>
 
 <!-- ==================== DYNAMIC NEON TYPING SVG ==================== -->
@@ -55,8 +55,9 @@ class AIMLEngineer:
         ]
 
         self.stack = {
-            "languages":  ["Python", "C++", "SQL", "Bash"],
+            "languages":  ["Python", "Java", "SQL", "Bash"],
             "genai_llm":  ["PyTorch", "HuggingFace", "LangGraph", "LlamaIndex", "FAISS/Qdrant"],
+            "java_back":  ["Java", "Spring Boot", "Maven", "Gradle", "REST Microservices"],
             "mlops_sys":  ["Docker", "FastAPI", "MLflow", "W&B", "DVC", "GitHub Actions"],
             "vision_ml":  ["YOLOv8", "OpenCV", "Scikit-Learn", "NumPy", "Pandas"]
         }
@@ -85,16 +86,19 @@ class AIMLEngineer:
 ## ⚡ Engineering & Research Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,scikitlearn,opencv,fastapi,docker,kubernetes,postgres,mongodb,redis,git,github,githubactions,linux,bash,aws,gcp,vscode&perline=10" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,spring,maven,pytorch,tensorflow,scikitlearn,opencv,fastapi,docker,kubernetes,postgres,mongodb,redis,git,github,githubactions,linux,bash,vscode&perline=10" alt="Tech Icons" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain_%2F_LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA_%2F_PEFT-00F2FE?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/vLLM_%26_Ollama-111827?style=for-the-badge&logo=lightning&logoColor=00F2FE"/>
 </p>
 
 <p align="center">
@@ -195,17 +199,6 @@ class AIMLEngineer:
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjb2k61&theme=radical" alt="GitHub Stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rjb2k61&theme=radical" alt="Top Languages by Commit" />
-</p>
-
-<br>
-
-<!-- ==================== GITHUB TROPHIES ==================== -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/rjb2k61">
-    <img src="https://sairaj2033-github-trophy.vercel.app/?username=rjb2k61&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />
-  </a>
 </p>
 
 <br>
